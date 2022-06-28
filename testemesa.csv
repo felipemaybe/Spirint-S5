@@ -1,0 +1,7 @@
+multiply,,,,,,,return
+controleMulti,p,q,let i,i < p,i++,"controleMulti += add(0, q)",-
+0,4,6,0,true,1,"0 +=add(0,6)",-
+6,4,6,1,true,2,"6 += add(0,6)",-
+12,4,6,2,true,3,"12 += add(0,12",-
+18,4,6,3,true,4,"18 =+add(0,18)",-
+24,5,6,5,false,-,-,24
